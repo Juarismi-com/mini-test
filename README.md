@@ -10,12 +10,16 @@ las **peticiones HTTP** correspondientes.
 
 
 Ejercicio 2.
-1. Plantear una solucion (algoritmo al siguiente ejercicio) [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem).
-Codificarlo, en el lenguaje, con el que más comodo se sienta.
+1. Plantear una solucion al algoritmo del siguiente ejercicio [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem).
+Codificarlo, en el lenguaje con el cual se sienta mas comodo.
 
 Ejercicio 3
 1. Responder al correo hi@ivanfretes.me todo el proceso realizado. Cuan mas especifico y concreto, mejor. 
 Indicando los pasos para hacer funcionar el ejercicio, tambien compartie .
+  - Enviar Proceso del CRUD y peticiones
+  - Enviar link del repositorio
+  - Enviar un archivo con el ejercicio en cuestion, con el formato, correspondiente al lenguaje(Explicar en los comentarios, el proceso del algoritmo)
+  - Cualquier detalle que considere interesnate
 
 
 
