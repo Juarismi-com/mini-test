@@ -11,7 +11,7 @@ las peticiones HTTP correspondientes.
 
 Ejercicio 2.
 1. Plantear una solucion (algoritmo al siguiente ejercicio) [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem).
-Explicar el algoritmo, es suficiente.
+Codificarlo, en el lenguaje, con el que más comodo se sienta.
 
 Ejercicio 3
 1. Responder al correo hi@ivanfretes.me todo el proceso realizado. Cuan mas especifico y concreto, mejor. 
