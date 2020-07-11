@@ -5,8 +5,8 @@ Ejercicio 1.
 
 1. Consumir el faker [JSON Placeholder](https://jsonplaceholder.typicode.com/guide.html)
 2. Crear en cualquiera de las 3 herramientas mencionadas( ANGULAR - REACT o VUE ) un CRUD con todas
-las peticiones HTTP correspondientes.
-3. Subir en un repositio git (el proveedor git de su gusto) en la rama test-dev
+las **peticiones HTTP** correspondientes.
+3. Subir en un repositio git (el proveedor git de su gusto), todo el contenido debe estar en la rama **test-dev**
 
 
 Ejercicio 2.
